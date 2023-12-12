@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "cypress-mochawesome-reporter": "^3.7.0",
+    "typescript": "^5.3.3",
+    "cypress": "^13.6.1"
+  },
+  "scripts": {
+    "test": "npx cypress run",
+    "testUi": "npx cypress open"
+  }
+
+}
